@@ -1,0 +1,32 @@
+# github.com/bndr/gojenkins v0.2.0
+github.com/bndr/gojenkins
+# github.com/fatih/color v1.7.0
+github.com/fatih/color
+# github.com/globalsign/mgo v0.0.0-20181015135952-eeefdecb41b8
+github.com/globalsign/mgo
+github.com/globalsign/mgo/bson
+github.com/globalsign/mgo/internal/sasl
+github.com/globalsign/mgo/internal/scram
+github.com/globalsign/mgo/internal/json
+# github.com/inconshreveable/mousetrap v1.0.0
+github.com/inconshreveable/mousetrap
+# github.com/mattn/go-colorable v0.0.9
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.4
+github.com/mattn/go-isatty
+# github.com/nikhilsbhat/neuron v0.0.0-20190222114422-1deb5e45819a
+github.com/nikhilsbhat/neuron/app/config
+github.com/nikhilsbhat/neuron/cloudoperations
+github.com/nikhilsbhat/neuron/error
+github.com/nikhilsbhat/neuron/database
+github.com/nikhilsbhat/neuron/database/common
+github.com/nikhilsbhat/neuron/logger
+github.com/nikhilsbhat/neuron/database/fs
+github.com/nikhilsbhat/neuron/database/mongodb
+github.com/nikhilsbhat/neuron/cli/ui
+# github.com/spf13/cobra v0.0.3
+github.com/spf13/cobra
+# github.com/spf13/pflag v1.0.3
+github.com/spf13/pflag
+# golang.org/x/sys v0.0.0-20180909124046-d0be0721c37e
+golang.org/x/sys/unix
